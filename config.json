@@ -1,0 +1,23 @@
+{
+    "token": "OTU4NzgwOTU4NTIwMjcwODU4.YkSUWQ.YSZC_bCcgX-DX4JRaLBZjehwm9k",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/959114115962531891/dPNU2ze4YpQK8ezua6gWWHWlsF7hc_xh3ppW98NPQE8tQFmu70lP1GYZ1eNY6IEgsJMs": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=207&size_id[]=208&size_id[]=209&catalog[]=79&brand_id[]=88&price_from=4&currency=EUR&price_to=45&status[]=2&status[]=1&status[]=6&order=newest_first",
+            "salon": "\ud83d\udc55-ralph_lauren"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
